@@ -3,8 +3,7 @@ https://www.overleaf.com/1781669765dbdjgbcrryqf
 
 
 Link to unlisted YouTube video:
-Task-5: https://youtu.be/VoeNYkVz_mk
-
+Task-5: https://www.youtube.com/watch?v=rqaXbwc3Ej4
 
 Public link to the draft (Anyone on the internet can view without login):
 https://github.com/Ahmed-Anwar-2001/CSE431/blob/main/Task-05/2023_Spring_Utilizing_Optical_Character_Recognition_to_Summarize_Bengali_text%20(2).pdf
