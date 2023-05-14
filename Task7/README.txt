@@ -25,7 +25,6 @@ Conference Name: 6th International Conference on Electrical Information and Comm
 
 Conference URL: https://eict2023.kuet.ac.bd/ 
 
-Submission confirmation : 
 Group Number:
 27
 
