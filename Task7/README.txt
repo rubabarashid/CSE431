@@ -3,7 +3,7 @@ https://www.overleaf.com/1781669765dbdjgbcrryqf
 
 
 Link to unlisted YouTube video:
-Task-7: https://youtu.be/hoislK-RyZA
+Task-6,7: https://youtu.be/hoislK-RyZA
 
 
 Public link to the draft (Anyone on the internet can view without login):
@@ -11,19 +11,20 @@ https://github.com/Ahmed-Anwar-2001/CSE431/blob/main/Task-06/2023_Spring_Utilizi
 
 
 Conference submitted paper / paper submission / login Link:
-
+https://cmt3.research.microsoft.com/EICT2023/Track/1/Submission/Create
 
 Paper title:
 Utilizing Optical Character Recognition to Summarize Bengali text
 
 
-Paper submission ID: 28
+Paper submission ID: 
+28
 
+Conference Name: 
+6th International Conference on Electrical Information and Communication Technology
 
-Conference Name: 6th International Conference on Electrical Information and Communication Technology 2023
-
-
-Conference URL: https://eict2023.kuet.ac.bd/ 
+Conference URL:
+https://eict2023.kuet.ac.bd/
 
 Group Number:
 27
